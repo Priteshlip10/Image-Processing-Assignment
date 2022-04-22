@@ -3,7 +3,7 @@ Image Processing Assignment of MSDSA Faculty
 
 ### Requirements:
 - Python
-- Anaconda/Miniconda[https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html]
+- [Anaconda/Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html)
 
 ### The environment is exported to requirements.yaml
 Commands to run:
