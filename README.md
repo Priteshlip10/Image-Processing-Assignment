@@ -1,6 +1,19 @@
 # Image-Processing-Assignment
 Image Processing Assignment of MSDSA Faculty
 
+### Requirements:
+- Python
+- Anaconda/Miniconda[https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html]
+
+### The environment is exported to requirements.yaml
+Commands to run:
+- Create environment in local using requirements.yaml
+>conda env create -f requirements.yaml
+- Run the conda virtual environment
+>conda activate computer_vision
+- To Run Jupyter Lab on the command line
+>jupyter-lab
+
 ### Some Notes:
 - The project tries to avoid built-in functions for image processing as much as it could.
 - The project however uses built-in numpy matrix manipulation as much as possible.
